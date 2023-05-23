@@ -1,0 +1,37 @@
+Puppet is an open-source DevOps system management tool. It is used to centralize and automate the configuration management procedure. 
+This tool is developed using Ruby DSL (domain-specific language). 
+Puppet tool deploys, configures, and manages the servers.
+
+
+
+Features of Puppet
+Following are the features of Puppet:
+
+Platform Support
+
+Puppet is compatible with all platforms that support Ruby, like Microsoft Windows, Linux, MacOS X, etc.
+
+Scalable
+
+The puppet was developed in 2005; therefore, many different organizations, including medium and large, have deployed Puppet, and hence its scalability is very large.
+
+Documentation
+
+Puppet provides a large number of well-developed wiki pages with detailed documentation.
+
+Idempotency
+
+Unlike other configuration management tools, in Puppet, we can safely run the same set of configurations multiple times on the same machine. Means, after deploying a configuration on any machine, the puppet keeps verifying those configurations in certain intervals.
+
+Open-Source
+
+A puppet is an open-source tool, and because of this feature, it is easy to extend it to build custom libraries and modules.
+
+Reporting Compliance
+
+The enterprise version of the puppet supports graphical reporting with the help of this you can simply visualize the infrastructure, communicate, and quickly respond to the modifications. It provides you the real-time visibility into the effects of changes, which allows you to see what's going on your infrastructure.
+
+Cost-Effective
+
+
+ A network interface card (NIC) is a hardware component without which a computer cannot be connected over a network. It is a circuit board ...-'
